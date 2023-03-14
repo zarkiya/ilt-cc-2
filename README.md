@@ -1,1 +1,2 @@
-# ilt-cc-2
+# M Rizki Wahyudin
+# CC-34
